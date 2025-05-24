@@ -10,11 +10,9 @@ Reserve NCOs (ΑΥΔΜ)
 
 Duty Sergeants (Αρχιφύλακας)
 
-Available Soldiers
+Available Soldiers services calendar
 
 📅 Automatically generates daily Excel duty sheets for the entire month
-
-🔄 Ensures role rotation and fair duty distribution
 
 🛠️ Configurable logic for assigning roles and managing availability
 
